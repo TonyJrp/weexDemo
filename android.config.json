@@ -1,0 +1,6 @@
+{
+    "AppName": "WeexDemo",
+    "AppId": "com.tony.weex",
+    "SplashText": "Weex\nDemo",
+    "WeexBundle": "index.js"
+}

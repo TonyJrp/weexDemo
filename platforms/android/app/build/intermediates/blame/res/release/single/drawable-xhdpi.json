@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\weex\\weexDemo\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ic_action_refresh.png",
+        "source": "D:\\weex\\weexDemo\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_refresh.png"
+    },
+    {
+        "merged": "D:\\weex\\weexDemo\\platforms\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi\\ic_action_scan.png",
+        "source": "D:\\weex\\weexDemo\\platforms\\android\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_scan.png"
+    }
+]
